@@ -1,0 +1,16 @@
+.env
+target/
+.idea/
+.vscode/
+*.iml
+logs/
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.desktop.ini
+HELP.md
+.mvn/wrapper/maven-wrapper.jar
